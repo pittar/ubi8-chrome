@@ -6,6 +6,8 @@ To build this image, you will need to run your build command (podman/buildah) fr
 
 You can of course get a [free RHEL developer subscription](https://developers.redhat.com/articles/faqs-no-cost-red-hat-enterprise-linux) for this purpose.
 
+The process was [based on this article](https://access.redhat.com/discussions/6114861).
+
 ## Build
 
 ```
